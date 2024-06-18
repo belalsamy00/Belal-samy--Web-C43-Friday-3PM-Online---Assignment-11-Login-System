@@ -1,0 +1,14 @@
+.color{
+  color: #17a2b8;
+}
+body{
+  background-color: #212529;
+}
+.container{
+  height: 100vh;
+  
+}
+.card {
+  box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+  background-color: #000;
+}
